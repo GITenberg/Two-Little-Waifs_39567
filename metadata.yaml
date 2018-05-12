@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2147
     wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39567#Two-Little-Waifs
 gutenberg_issued: '2012-04-29'
 gutenberg_type: Text
 identifiers:
